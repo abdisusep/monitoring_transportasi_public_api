@@ -1,0 +1,28 @@
+{
+  "name": "monitoring_transportasi_public_api",
+  "version": "1.0.0",
+  "description": "monitoring_transportasi_public_api",
+  "keywords": [
+    "API"
+  ],
+  "homepage": "https://github.com/abdisusep/monitoring_transportasi_public_api#readme",
+  "bugs": {
+    "url": "https://github.com/abdisusep/monitoring_transportasi_public_api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdisusep/monitoring_transportasi_public_api.git"
+  },
+  "license": "ISC",
+  "author": "Susep Sp",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
